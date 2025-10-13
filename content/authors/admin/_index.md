@@ -38,11 +38,12 @@ profiles:
 
 # Interests / Research Areas
 interests:
-  - Large Language Models
+  - Artificial Intelligence
+  - Machine Learning
   - Computer Vision
   - Reinforcement Learning
-  - AI Ethics
   - Robotics and IoT
+  - AI Ethics
 
 # Education
 education:
@@ -51,9 +52,9 @@ education:
     date_start: 2018-01-01
     date_end: 2023-06-23
     summary: |
-      Focused on embedded systems, robotics, and applied AI. 
-      Conducted thesis work on intelligent control and automation systems.
-      Developed IoT-based robotic applications for real-world problem-solving.
+      Specialized in Robotics, IoT, and Artificial Intelligence. 
+      Completed thesis on intelligent control and automation systems.
+      Developed IoT-based robotic applications for academic and research use.
 
 # Work Experience
 work:
@@ -63,9 +64,9 @@ work:
     date_start: 2024-01-01
     date_end: ''
     summary: |
-      Teaching and mentoring undergraduate students in CSE and CSIT programs.
-      Conducting academic research in AI, Machine Learning, and Computer Vision.
-      Supervised student projects in robotics, IoT, and automation.
+      Teaching and mentoring undergraduate students in CSE and CSIT programs. 
+      Conducting research in AI, Machine Learning, and Computer Vision.
+      Supervising student projects related to Robotics, IoT, and automation systems.
 
 # Skills
 skills:
@@ -74,10 +75,10 @@ skills:
       - name: Python & PyTorch
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
+      - name: Machine Learning & Deep Learning
         percent: 100
         icon: chart-bar
-      - name: Computer Vision & Deep Learning
+      - name: Computer Vision
         percent: 90
         icon: camera
       - name: Arduino & IoT Systems
@@ -111,11 +112,12 @@ awards:
     awarder: Shahjalal University of Science & Technology
     icon: hero/trophy
     summary: |
-      Recognized for innovative design of an autonomous IoT-based robotic vehicle.
+      Recognized for innovative design of an autonomous IoT-based robotic system.
 
-# Short Bio
+# Short Biography
 ---
+
 Md. Naim is a Lecturer in the Department of Computer Science and Engineering at Shanto-Mariam University of Creative Technology (SMUCT).  
 He specializes in Artificial Intelligence, Machine Learning, and Computer Vision, with a strong focus on robotics and IoT applications.  
-Beyond teaching, he actively explores AI ethics and real-world automation projects.  
-In his free time, Naim enjoys building custom PCs, exploring emerging technologies, and reading science fiction.
+Naim is passionate about integrating modern AI techniques into practical systems and exploring the ethical implications of intelligent technologies.  
+Beyond academics, he enjoys building custom PCs, exploring new technologies, and reading science fiction.
