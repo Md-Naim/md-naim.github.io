@@ -88,7 +88,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Building Custom PCs
+      - name: Building Custom PCBs
         percent: 90
         icon: cpu-chip
       - name: Sci-Fi Reading
@@ -107,8 +107,8 @@ languages:
 
 # Awards (optional)
 awards:
-  - title: Best Student Project (Robotics & IoT)
-    date: '2023-05-01'
+  - title: Robo Fight Contest (Robotics & IoT)
+    date: '2022'
     awarder: Shahjalal University of Science & Technology
     icon: hero/trophy
     summary: |
