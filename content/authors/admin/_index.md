@@ -9,6 +9,7 @@ name_pronunciation: ''
 first_name: Md.
 last_name: Naim
 
+
 # Status emoji
 status:
   icon: 🚀
@@ -20,105 +21,141 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lecturer, CSE
+role: Lecturer,CSE
 
-# Organizations/Affiliations to display in Biography block
+# Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shanto-Mariam University of Creative Technology (SMUCT)
+  - name: Shanto-Mariam University of Creative Technology(SMUCT)
     url: https://smuct.ac.bd/
 
 # Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:naimeee17@gmail.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Md-Naim
-  - icon: brands/linkedin
-    url: https://bd.linkedin.com/in/md-naim-52195317b?trk=people-guest_people_search-card
 
-# Interests / Research Areas
+
+
 interests:
-  - Artificial Intelligence
-  - Machine Learning
+  - Large Language Models
   - Computer Vision
   - Reinforcement Learning
-  - Robotics and IoT
   - AI Ethics
 
-# Education
 education:
-  - area: BSc in Electrical and Electronic Engineering (Robotics & IoT Focus)
+  - area: BSc Electrical and Electronic Engineering (Robotics & IoT Focus)
     institution: Shahjalal University of Science & Technology
     date_start: 2018-01-01
     date_end: 2023-06-23
     summary: |
-      Specialized in Robotics, IoT, and Artificial Intelligence. 
-      Completed thesis on intelligent control and automation systems.
-      Developed IoT-based robotic applications for academic and research use.
-
-# Work Experience
-work:
-  - position: Lecturer, Department of Computer Science and Engineering
-    company_name: Shanto-Mariam University of Creative Technology
-    company_url: https://smuct.ac.bd/
-    date_start: 2024-01-01
-    date_end: ''
+      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com/thesis.pdf'
+  - area: MS Computer Science
+    institution: Carnegie Mellon University
+    date_start: 2013-09-01
+    date_end: 2015-05-31
     summary: |
-      Teaching and mentoring undergraduate students in CSE and CSIT programs. 
-      Conducting research in AI, Machine Learning, and Computer Vision.
-      Supervising student projects related to Robotics, IoT, and automation systems.
+      GPA: 4.0/4.0
+
+      Specialized in machine learning and robotics.
+  - area: BS Computer Science
+    institution: MIT
+    date_start: 2009-09-01
+    date_end: 2013-05-31
+    summary: |
+      GPA: 3.9/4.0
+
+      Minored in Mathematics. President of AI Club.
+
+work:
+  - position: Senior AI Research Scientist
+    company_name: Meta AI
+    company_url: 'https://ai.meta.com/'
+    company_logo: ''
+    date_start: 2020-01-01
+    date_end: ''
+    summary: |2-
+      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+  - position: AI Research Intern
+    company_name: OpenAI
+    company_url: 'https://openai.com/'
+    company_logo: ''
+    date_start: 2019-06-01
+    date_end: 2019-12-31
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python & PyTorch
+        description: ''
         percent: 95
         icon: code-bracket
-      - name: Machine Learning & Deep Learning
+      - name: Machine Learning
+        description: ''
         percent: 100
         icon: chart-bar
-      - name: Computer Vision
-        percent: 90
-        icon: camera
-      - name: Arduino & IoT Systems
+      - name: Cloud Computing (AWS/GCP)
+        description: ''
         percent: 85
-        icon: cpu-chip
+        icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Building Custom PCBs
+      - name: Hiking in the Rockies
+        description: ''
+        percent: 80
+        icon: person-simple-walk
+      - name: Building Custom PCs
+        description: ''
         percent: 90
         icon: cpu-chip
       - name: Sci-Fi Reading
-        percent: 80
-        icon: book-open
-      - name: Hiking & Outdoor Exploration
+        description: ''
         percent: 70
-        icon: person-simple-walk
+        icon: book-open
 
-# Languages
 languages:
   - name: English
     percent: 100
-  - name: Bangla
-    percent: 100
+  - name: Spanish
+    percent: 50
 
-# Awards (optional)
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Robo Fight Contest (Robotics & IoT)
-    date: '2022'
-    awarder: Shahjalal University of Science & Technology
+  - title: Best Paper Award
+    url: https://neurips.cc/
+    date: '2022-12-01'
+    awarder: NeurIPS
     icon: hero/trophy
     summary: |
-      Recognized for innovative design of an autonomous IoT-based robotic system.
-
-# Short Biography
+      Awarded for groundbreaking work on efficient training of large models.
+  - title: AI Innovation Grant
+    url: https://www.nsf.gov/
+    date: '2021-06-15'
+    awarder: National Science Foundation
+    icon: hero/currency-dollar
+    summary: |
+      $500,000 grant for research in ethical AI development.
+  - title: Outstanding PhD Thesis
+    url: https://www.stanford.edu/
+    date: '2019-06-30'
+    awarder: Stanford University
+    icon: hero/academic-cap
+    summary: |
+      Recognized for contributions to scaling laws in deep learning.
 ---
 
-Md. Naim is a Lecturer in the Department of Computer Science and Engineering at Shanto-Mariam University of Creative Technology (SMUCT).  
-He specializes in Artificial Intelligence, Machine Learning, and Computer Vision, with a strong focus on robotics and IoT applications.  
-Naim is passionate about integrating modern AI techniques into practical systems and exploring the ethical implications of intelligent technologies.  
-Beyond academics, he enjoys building custom PCs, exploring new technologies, and reading science fiction.
+Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
