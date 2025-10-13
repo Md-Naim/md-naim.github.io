@@ -6,8 +6,8 @@ title: Alex Johnson
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Md.
+last_name: Naim
 
 # Pronouns (optional)
 pronouns: he/him
