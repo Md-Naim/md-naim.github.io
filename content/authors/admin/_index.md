@@ -21,7 +21,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lecturer,CSE
+role: Lecturer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,31 +48,25 @@ interests:
   - AI Ethics
 
 education:
-  - area: BSc Electrical and Electronic Engineering (Robotics & IoT Focus)
-    institution: Shahjalal University of Science & Technology
+
+  - area: BSc EEE (Robotics & IoT Focus)
+    institution: SUST
     date_start: 2018-01-01
     date_end: 2023-06-23
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      GPA: 3.32/4.0
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS EEE
-    institution: SUST
-    date_start: 2018-09-01
-    date_end: 2023-06-23
+  - area: HSC Science
+    institution: Notre Dame College, Dhaka
+    date_start: 2015-01-01
+    date_end: 2017-12-23
     summary: |
-      GPA: 3.32/4.0
+      GPA: 5.0/5.0
 
-      Major in EEE. President of AI Club.
 
 work:
   - position: Lecturer, CSE
@@ -82,13 +76,15 @@ work:
     date_start: 2020-01-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Teaching and mentoring undergraduate students in CSE and CSIT programs. 
+      Conducting research in AI, Machine Learning, and Computer Vision.
+      Supervising student projects related to Robotics, IoT, and automation systems.
+  - position: Vice President
+    company_name: RoboSUST
+    company_url: ''
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2020-06-01
+    date_end: 2022-12-31
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
@@ -160,4 +156,7 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Md. Naim is a Lecturer in the Department of Computer Science and Engineering at Shanto-Mariam University of Creative Technology (SMUCT).  
+He specializes in Artificial Intelligence, Machine Learning, and Computer Vision, with a strong focus on robotics and IoT applications.  
+Naim is passionate about integrating modern AI techniques into practical systems and exploring the ethical implications of intelligent technologies.  
+Beyond academics, he enjoys building custom PCs, exploring new technologies, and reading science fiction.
