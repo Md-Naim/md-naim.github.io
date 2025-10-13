@@ -75,7 +75,7 @@ work:
     company_logo: ''
     date_start: 2020-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Teaching and mentoring undergraduate students in CSE and CSIT programs. 
       Conducting research in AI, Machine Learning, and Computer Vision.
       Supervising student projects related to Robotics, IoT, and automation systems.
@@ -156,7 +156,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Md. Naim is a Lecturer in the Department of Computer Science and Engineering at Shanto-Mariam University of Creative Technology (SMUCT).  
-He specializes in Artificial Intelligence, Machine Learning, and Computer Vision, with a strong focus on robotics and IoT applications.  
-Naim is passionate about integrating modern AI techniques into practical systems and exploring the ethical implications of intelligent technologies.  
-Beyond academics, he enjoys building custom PCs, exploring new technologies, and reading science fiction.
+Md. Naim is a Lecturer in the Department of Computer Science and Engineering at Shanto-Mariam University of Creative Technology (SMUCT). He specializes in Artificial Intelligence, Machine Learning, and Computer Vision, with a strong focus on robotics and IoT applications. Naim is passionate about integrating modern AI techniques into practical systems and exploring the ethical implications of intelligent technologies. Beyond academics, he enjoys building custom PCs, exploring new technologies, and reading science fiction.
