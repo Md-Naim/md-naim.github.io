@@ -147,13 +147,7 @@ awards:
     icon: hero/currency-dollar
     summary: |
       $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+
 ---
 
 Md. Naim is a Lecturer in the Department of Computer Science and Engineering at Shanto-Mariam University of Creative Technology (SMUCT). He specializes in Artificial Intelligence, Machine Learning, and Computer Vision, with a strong focus on robotics and IoT applications. Naim is passionate about integrating modern AI techniques into practical systems and exploring the ethical implications of intelligent technologies. Beyond academics, he enjoys building custom PCs, exploring new technologies, and reading science fiction.
