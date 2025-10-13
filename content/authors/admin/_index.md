@@ -58,8 +58,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-
-      Specialized in machine learning and robotics.
+      summary: |
+        Specialized in machine learning and robotics. 
   - area: HSC Science
     institution: Notre Dame College, Dhaka
     date_start: 2015-01-01
