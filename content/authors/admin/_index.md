@@ -25,7 +25,7 @@ role: Lecturer,CSE
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shanto-Mariam University of Creative Technology(SMUCT)
+  - name: CSE, SMUCT
     url: https://smuct.ac.bd/
 
 # Social network links
@@ -40,9 +40,11 @@ profiles:
 
 
 interests:
-  - Large Language Models
+  - Artificial Intelligence
+  - Machine Learning
   - Computer Vision
   - Reinforcement Learning
+  - Robotics and IoT
   - AI Ethics
 
 education:
@@ -63,19 +65,19 @@ education:
       GPA: 4.0/4.0
 
       Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+  - area: BS EEE
+    institution: SUST
+    date_start: 2018-09-01
+    date_end: 2023-06-23
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.32/4.0
 
-      Minored in Mathematics. President of AI Club.
+      Major in EEE. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Lecturer, CSE
+    company_name: Shanto-Mariam University of Creative Technology(SMUCT)
+    company_url: 'https://smuct.ac.bd/'
     company_logo: ''
     date_start: 2020-01-01
     date_end: ''
