@@ -9,8 +9,6 @@ name_pronunciation: ''
 first_name: Md.
 last_name: Naim
 
-# Pronouns (optional)
-#pronouns: he/him
 
 # Status emoji
 status:
@@ -40,10 +38,7 @@ profiles:
     url: https://github.com/Md-Naim
   - icon: brands/linkedin
     url: https://bd.linkedin.com/in/md-naim-52195317b?trk=people-guest_people_search-card
-  #- icon: academicons/google-scholar
-  #  url: https://scholar.google.com/citations?user=alexjohnson
-  #- icon: academicons/orcid
-  # url: https://orcid.org/0000-0002-1825-0097
+
 
 interests:
   - Large Language Models
