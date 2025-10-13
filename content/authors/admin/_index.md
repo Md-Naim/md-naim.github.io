@@ -36,8 +36,7 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Md-Naim
-  - icon: brands/linkedin
-    url: https://bd.linkedin.com/in/md-naim-52195317b?trk=people-guest_people_search-card
+
 
 
 interests:
