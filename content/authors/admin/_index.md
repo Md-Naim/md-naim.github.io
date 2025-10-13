@@ -10,7 +10,7 @@ first_name: Md.
 last_name: Naim
 
 # Pronouns (optional)
-pronouns: he/him
+#pronouns: he/him
 
 # Status emoji
 status:
@@ -23,29 +23,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Lecturer,CSE
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Shanto-Mariam University of Creative Technology(SMUCT)
+    url: https://smuct.ac.bd/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:naimeee17@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Md-Naim
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://bd.linkedin.com/in/md-naim-52195317b?trk=people-guest_people_search-card
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/citations?user=alexjohnson
+  #- icon: academicons/orcid
+  # url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Large Language Models
@@ -54,10 +52,10 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: BSc Electrical and Electronic Engineering (Robotics & IoT Focus)
+    institution: Shahjalal University of Science & Technology
+    date_start: 2018-01-01
+    date_end: 2023-06-23
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
