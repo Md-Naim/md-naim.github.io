@@ -73,7 +73,7 @@ work:
     company_name: Shanto-Mariam University of Creative Technology(SMUCT)
     company_url: 'https://smuct.ac.bd/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2023-09-17
     date_end: ''
     summary: |
       Teaching and mentoring undergraduate students in CSE and CSIT programs. 
@@ -125,7 +125,7 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
+  - name: Bangla
     percent: 50
 
 # Awards.
