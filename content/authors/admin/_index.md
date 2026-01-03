@@ -110,11 +110,11 @@ skills:
     items:
       - name: Python & PyTorch
         description: 'Programming and deep learning frameworks for AI and robotics applications'
-        percent: 95
+        percent: 90
         icon: code-bracket
       - name: Machine Learning & AI
         description: 'Supervised and unsupervised learning, reinforcement learning, and AI model deployment'
-        percent: 100
+        percent: 90
         icon: chart-bar
       - name: Robotics & ROS
         description: 'Design and development of autonomous robotic systems using Robot Operating System (ROS)'
