@@ -119,15 +119,15 @@ skills:
       - name: Robotics & ROS
         description: 'Design and development of autonomous robotic systems using Robot Operating System (ROS)'
         percent: 90
-        icon: robot
+        icon: activity
       - name: Embedded Systems & IoT
         description: 'Microcontroller programming, IoT device integration, and sensor/actuator interfacing'
         percent: 90
-        icon: microchip
+        icon: server
       - name: PCB Design & Hardware Prototyping
         description: 'Circuit design, PCB layout, and prototyping of embedded hardware systems'
         percent: 85
-        icon: circuit-board
+        icon: cpu
       - name: Computer Vision
         description: 'Image processing, object detection, and vision-based robotics applications'
         percent: 85
@@ -144,11 +144,11 @@ skills:
       - name: Robotics & IoT Projects
         description: 'Hands-on projects with autonomous systems, sensors, and embedded devices'
         percent: 95
-        icon: robot
+        icon: tool
       - name: PCB & Hardware Prototyping
         description: 'Designing and building electronic circuits and prototypes'
         percent: 90
-        icon: circuit-board
+        icon: cpu
       - name: AI & Tech Reading
         description: 'Staying up-to-date with research in AI, ML, and robotics'
         percent: 80
