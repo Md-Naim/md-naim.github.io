@@ -36,8 +36,9 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Md-Naim
-
-
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/md-naim-52195317b
+    label: LinkedIn  
 
 interests:
   - Artificial Intelligence
@@ -49,8 +50,8 @@ interests:
 
 education:
 
-  - area: BSc EEE (Robotics & IoT Focus)
-    institution: SUST
+  - area: BSc in EEE (Robotics & IoT Focus)
+    institution: Shahjalal University of Science and Technology(SUST), Sylhet
     date_start: 2018-01-01
     date_end: 2023-06-23
     summary: |
@@ -61,12 +62,17 @@ education:
       summary: |
         Specialized in machine learning and robotics. 
   - area: HSC Science
-    institution: Notre Dame College, Dhaka
+    institution: Notre Dame College(NDC), Dhaka
     date_start: 2015-01-01
     date_end: 2017-12-23
     summary: |
       GPA: 5.0/5.0
-
+  - area: SSC Science
+    institution: Harimohan Govt High School, Chapainawabganj
+    date_start: 2010-01-01
+    date_end: 2014-12-31
+    summary: |
+      GPA: 5.0/5.0
 
 work:
   - position: Lecturer, CSE
