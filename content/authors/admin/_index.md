@@ -43,10 +43,12 @@ profiles:
 interests:
   - Artificial Intelligence
   - Machine Learning
+  - Robotics & Intelligent Systems
+  - Robot Operating System (ROS)
+  - Internet of Things (IoT)
   - Computer Vision
-  - Reinforcement Learning
-  - Robotics and IoT
-  - AI Ethics
+  - Battery Technology
+  - PCB Design
 
 education:
 
