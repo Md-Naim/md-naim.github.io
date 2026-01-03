@@ -109,32 +109,49 @@ skills:
   - name: Technical Skills
     items:
       - name: Python & PyTorch
-        description: ''
+        description: 'Programming and deep learning frameworks for AI and robotics applications'
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
+      - name: Machine Learning & AI
+        description: 'Supervised and unsupervised learning, reinforcement learning, and AI model deployment'
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+      - name: Robotics & ROS
+        description: 'Design and development of autonomous robotic systems using Robot Operating System (ROS)'
+        percent: 90
+        icon: robot
+      - name: Embedded Systems & IoT
+        description: 'Microcontroller programming, IoT device integration, and sensor/actuator interfacing'
+        percent: 90
+        icon: microchip
+      - name: PCB Design & Hardware Prototyping
+        description: 'Circuit design, PCB layout, and prototyping of embedded hardware systems'
         percent: 85
+        icon: circuit-board
+      - name: Computer Vision
+        description: 'Image processing, object detection, and vision-based robotics applications'
+        percent: 85
+        icon: camera
+      - name: Cloud Computing (AWS/GCP)
+        description: 'Deployment and scaling of AI/IoT applications on cloud platforms'
+        percent: 80
         icon: cloud
-  - name: Hobbies
+
+  - name: Personal Interests
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
+      - name: Robotics & IoT Projects
+        description: 'Hands-on projects with autonomous systems, sensors, and embedded devices'
+        percent: 95
+        icon: robot
+      - name: PCB & Hardware Prototyping
+        description: 'Designing and building electronic circuits and prototypes'
         percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
+        icon: circuit-board
+      - name: AI & Tech Reading
+        description: 'Staying up-to-date with research in AI, ML, and robotics'
+        percent: 80
         icon: book-open
 
 languages:
