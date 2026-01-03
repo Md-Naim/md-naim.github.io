@@ -143,7 +143,7 @@ skills:
     items:
       - name: Robotics & IoT Projects
         description: 'Hands-on projects with autonomous systems, sensors, and embedded devices'
-        percent: 95
+        percent: 90
         icon: zap
       - name: PCB & Hardware Prototyping
         description: 'Designing and building electronic circuits and prototypes'
