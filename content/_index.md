@@ -34,11 +34,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am an Electrical and Electronic Engineering graduate with a strong focus on robotics, autonomous systems, and intelligent embedded technologies. My academic and project work emphasizes the application of artificial intelligence and machine learning to practical robotic and IoT systems.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I currently serve as Advisor of the SMUCT Robotics & IoT Community and was previously Vice President of RoboSUST, contributing to projects and initiatives that integrate software, AI, and hardware design.
 
-        Please reach out to collaborate 😃
+        My research interests include robot operating systems (ROS), computer vision, embedded systems, battery management, and hardware prototyping, with the goal of bridging the gap between intelligent algorithms and hardware implementation.
+
+        I am open to research collaborations, technical projects, and professional engagements in the fields of robotics and intelligent systems.
     design:
       columns: '1'
   - block: collection

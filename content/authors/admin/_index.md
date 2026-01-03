@@ -43,12 +43,12 @@ profiles:
 interests:
   - Artificial Intelligence
   - Machine Learning
-  - Robotics & Intelligent Systems
-  - Robot Operating System (ROS)
-  - Internet of Things (IoT)
   - Computer Vision
-  - Battery Technology
-  - PCB Design
+  - Robotics & Autonomous Systems
+  - Robot Operating System (ROS)
+  - Embedded Systems & IoT
+  - Battery Management & Energy Storage
+  - PCB Design & Hardware Prototyping
 
 education:
 
@@ -84,9 +84,12 @@ work:
     date_start: 2023-09-17
     date_end: ''
     summary: |
-      Teaching and mentoring undergraduate students in CSE and CSIT programs. 
-      Conducting research in AI, Machine Learning, and Computer Vision.
-      Supervising student projects related to Robotics, IoT, and automation systems.
+      Teaching and mentoring undergraduate students in CSE and CSIT programs.
+      Guiding research and projects in AI, Machine Learning, Computer Vision, Robotics, and IoT.
+      Overseeing student projects in automation and embedded hardware-software systems, and serving as Advisor of the SMUCT Robotics & IoT Community.
+
+      Served as a member of the Exam Committee and currently serving on the Proctorial Committee.
+      Currently a member of the Academic Committee.
   - position: Vice President
     company_name: RoboSUST
     company_url: ''
@@ -94,7 +97,11 @@ work:
     date_start: 2020-06-01
     date_end: 2022-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Provided leadership and strategic direction for the RoboSUST community, coordinating teams and initiatives in robotics and AI research.
+      Led and supervised multiple projects, including autonomous systems, line-follower robots, and IoT applications.
+      Organized and conducted technical workshops and training sessions to develop student skills in AI, Machine Learning, and Robotics.
+      Contributed to publications and technical documentation on AI applications and prompt engineering.
+      Facilitated certifications and skill-building programs for community members and guided them toward competitions and achievements.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
